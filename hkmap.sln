@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hkmap", "hkmap\hkmap.csproj", "{10A500A2-05A0-4B52-92FF-A8B83E4DFB78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{FE142EF2-41AB-452A-B438-EA22DAD1125B}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\build.yml = .github\workflows\build.yml
+		.github\dependabot.yml = .github\dependabot.yml
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A500A2-05A0-4B52-92FF-A8B83E4DFB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A500A2-05A0-4B52-92FF-A8B83E4DFB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A500A2-05A0-4B52-92FF-A8B83E4DFB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A500A2-05A0-4B52-92FF-A8B83E4DFB78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CE4BD2-389A-43F7-AC13-E412A5E3BC27}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,46 @@
+[Info   : Unity Log] [hkmap.debug] debug=on
+[Info   : Unity Log] Making UI menu lean.
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerLateUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerLateUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerFixedUpdate
+[Info   : Unity Log] AddEventHandlerComponent: PlayMakerLateUpdate
+[Info   : Unity Log] Deferring level start (marked as manual).
+[Info   : Unity Log] [hkmap.debug] build zone=DEEPNEST mapped=Deepnest_30 rooms=30 zoneScale=9.180 origin=(-7.4, -6.0) curDims=(2.0, 2.7)
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.0) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.5) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.1) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.5) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.1) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.5) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.1) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.5) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.1) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.5) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.1) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.0) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.0) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.0) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.0) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.0) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.0) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(38.6, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(0.0, 0.0) deltaMap=(0.0, 0.0) container=(0.0, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(40.6, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(2.0, 0.0) deltaMap=(0.3, 0.0) container=(-0.3, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(44.8, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(6.2, 0.0) deltaMap=(0.9, 0.0) container=(-0.9, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(49.0, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(10.4, 0.0) deltaMap=(1.6, 0.0) container=(-1.6, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(53.1, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(14.5, 0.0) deltaMap=(2.2, 0.0) container=(-2.2, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(57.3, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(18.7, 0.0) deltaMap=(2.9, 0.0) container=(-2.9, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(60.2, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(21.6, 0.0) deltaMap=(3.3, 0.0) container=(-3.3, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(60.2, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(21.6, 0.0) deltaMap=(3.3, 0.0) container=(-3.3, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(60.2, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(21.6, 0.0) deltaMap=(3.3, 0.0) container=(-3.3, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(60.2, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(21.6, 0.0) deltaMap=(3.3, 0.0) container=(-3.3, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] hero=(60.2, 5.4) origin=(38.6, 5.4) mapped=Deepnest_30 dims=(2.0, 2.7) tmd=(120,160) k=(0.017,0.017) deltaWorld=(21.6, 0.0) deltaMap=(3.3, 0.0) container=(-3.3, 0.0) zoneScale=9.180 zoom=1.00
+[Info   : Unity Log] [hkmap.debug] debug=off

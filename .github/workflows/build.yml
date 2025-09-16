@@ -33,7 +33,7 @@ jobs:
         uses: BadMagic100/setup-hk@v2
         with:
           apiPath: API
-          #dependencyFilePath: hkmap/ModDependencies.txt
+          dependencyFilePath: hkmap/ModDependencies.txt
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
